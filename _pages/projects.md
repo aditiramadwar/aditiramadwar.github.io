@@ -10,6 +10,12 @@ author_profile: true
 
 **Food Automation, Food Maker Robot**
 #### December 2021 | Maryland, USA
+-----
+* Developed a food making robot which can add various toppings on a pizza base
+* Designed the entire model of the robot as well as analyse the kinematics of the entire robot as per usecase.
+* Simulation was done on Gazebo using ROS.
+
+Here is the - [Github Repo](https://github.com/aditiramadwar/food_maker)
 
 -----
 <img align="left" height="100" width="100" src="../images/mower.jpeg" style="padding-right:15px">
@@ -24,12 +30,6 @@ author_profile: true
 
 Here is the - [Github Repo](https://github.com/aditiramadwar/Autonomous_Lawn_Mower/)
 
------
-* Developed a food making robot which can add various toppings on a pizza base
-* Designed the entire model of the robot as well as analyse the kinematics of the entire robot as per usecase.
-* Simulation was done on Gazebo using ROS.
-
-Here is the - [Github Repo](https://github.com/aditiramadwar/food_maker)
 
 -----
 <img align="left" height="100" width="100" src="../images/human.png" style="padding-right:15px">
@@ -45,7 +45,7 @@ Here is the - [Github Repo](https://github.com/aditiramadwar/food_maker)
 Here is the - [Github Repo](https://github.com/aditiramadwar/Human_Detection_Tracking-CPP/)
 
 -----
-<img align="left" height="100" width="100" src="../images/restaurant.png" style="padding-right:15px">
+<img align="left" height="100" width="100" src="../images/restaurant.jpg" style="padding-right:15px">
 
 **Food Automation, Automatic Restaurant Menu ordering System**
 #### February 2020 - March 2020 | Mumbai, India
