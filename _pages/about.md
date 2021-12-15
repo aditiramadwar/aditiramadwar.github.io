@@ -17,7 +17,6 @@ I am always excited to learn the new types of technologies being developed and u
 Oh, and also, I am heavily into hiking and playing tennis. Hit me up if you want to talk sports, robotics, automation, or anything fun in life! :)
 
 # Education
-======
 <img align="left" height="100" width="100" src="../images/maryland.jpg" style="padding-right:15px">
 
 **Master of Engineering (MEng) in Robotics, [University of Maryland-College Park](https://www.umd.edu/)**
