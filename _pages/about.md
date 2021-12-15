@@ -19,11 +19,10 @@ Oh, and also, I am heavily into hiking and playing tennis. Hit me up if you want
 # Education
 <img align="left" height="100" width="100" src="../images/maryland.jpg" style="padding-right:15px">
 
-**Master of Engineering (MEng) in Robotics, [University of Maryland-College Park](https://www.umd.edu/)**
+**Master of Engineering (MEng) in Robotics, [University of Maryland](https://www.umd.edu/)**
 #### August 2021 - Present | Maryland, USA
 I am currently pursuing my Graduate Degree in Robotics from the University of Maryland with a focus in Path planning and perception. <br> <br>
-
-<strong>coursework:</strong>
+<strong>Coursework:</strong>
 * <strong>Fall '21: </strong>Robot control, Robot modelling, Software Development <br>
 
 -----
